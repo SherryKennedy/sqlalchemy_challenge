@@ -112,7 +112,7 @@ Designed a Flask API based on the queries developed.
   
   ## Other Analyses
 
-  * Used the  [temp_analysis_bonus_1_starter.ipynb](temp_analysis_bonus_1_starter.ipynb) and [temp_analysis_bonus_1_starter](temp_analysis_bonus_2_starter.ipynb) starter notebooks for each further analyses.  
+  * Used the  [temp_analysis_bonus_1_starter.ipynb](temp_analysis_bonus_1_starter.ipynb) and [temp_analysis_bonus_2_starter](temp_analysis_bonus_2_starter.ipynb) starter notebooks for each further analyses.  
   
   ### Temperature Analysis I
 
