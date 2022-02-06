@@ -184,4 +184,4 @@ Designed a Flask API based on the queries developed.
 
   - - -
 
-  © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+  © 2021  Coded by SherryK All Rights Reserved.
